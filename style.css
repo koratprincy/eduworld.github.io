@@ -71,7 +71,7 @@ html{
     width: 70%;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7)  url('img/banner.jpg');
+    background: rgba(0, 0, 0, 0.7)  url('banner.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
