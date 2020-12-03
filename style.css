@@ -23,13 +23,13 @@ html{
     align-items: center;
 }
 .logo img{
-    width: 33%;
+    width: 40%;
     border: 10px rgb(245, 233, 233);
     border-radius: 200px;
     height: 50%;
 }
 .nav-list{
-    width: 70%;
+    width: 80%;
     /* background-color:rgb(220, 220, 241); */
     display: flex;
     
@@ -244,7 +244,7 @@ html{
 
 @media only screen and (max-width:1050px){
     .nav-list{
-        flex-direction: row;
+        flex-direction: column;
     }
     .nav-bar{
         flex-direction: column;
