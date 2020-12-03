@@ -240,21 +240,7 @@ html{
     text-align: right;
     padding-right: 3%;
 }
-.burger{
-    display: none;
-    position: absolute;
-    cursor: pointer;
-    right: 5%;
-    top: 15px;
-}
-.line{
-    width: 33px;
-    background-color: white;
-    height: 4px;
-    
-    border: 2px solid black;
-    
-}
+
 
 @media only screen and (max-width:1050px){
     .nav-list{
